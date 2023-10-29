@@ -17,7 +17,7 @@ columns = ['Ana','Benito','Camilo','Daniel','Erika','Fabian','Gabriela']
 
 df = pd.DataFrame(dict_data2, index=columns)
 
-paises = df[df['pais'].isin(['cm', 'mx']).tolist()]
+paises = df[df['pais'].isin(['co', 'mx']).tolist()]
 """response paises
         edad   cm pais genero    Q1   Q2
 Benito     9  110   mx      F  10.0  9.0
@@ -25,6 +25,6 @@ Daniel    14  155   mx      M   NaN  8.0
 Erika     12  125   mx      M   7.0  8.0
 """
 
-print(df.describe())
+print(paises)
 
 
