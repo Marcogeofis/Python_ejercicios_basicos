@@ -1,0 +1,13 @@
+<datos>
+    <registro>
+        <nombre>Juan</nombre>
+        <edad>25</edad>
+        <ciudad>Madrid</ciudad>
+    </registro>
+    <registro>
+        <nombre>María</nombre>
+        <edad>30</edad>
+        <ciudad>Barcelona</ciudad>
+    </registro>
+    <!-- Otros registros -->
+</datos>

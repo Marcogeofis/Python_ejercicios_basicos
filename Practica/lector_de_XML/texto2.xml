@@ -1,0 +1,17 @@
+<empleados>
+    <empleado>
+        <id>1</id>
+        <nombre>Juan</nombre>
+        <puesto>Desarrollador</puesto>
+    </empleado>
+    <empleado>
+        <id>2</id>
+        <nombre>María</nombre>
+        <puesto>Analista</puesto>
+    </empleado>
+    <empleado>
+        <id>3</id>
+        <nombre>Carlos</nombre>
+        <puesto>Gerente</puesto>
+    </empleado>
+</empleados>
